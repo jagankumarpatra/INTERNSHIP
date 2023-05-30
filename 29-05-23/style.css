@@ -1,0 +1,54 @@
+b{
+    color:aqua;
+
+}
+#styler{
+    background-color: antiquewhite;
+}
+img{
+    background-color: rgb(38, 43, 43);
+}
+
+#he1{
+    color: black;
+}
+#namm{
+    color: rgb(228, 14, 21);
+}
+
+/* CSS FLEX GRID */
+/* % changes */
+    /* px not changes */
+#styler {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid red;
+  width: 70%;
+  height: 50%;
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 6fr);
+  background-color: aquamarine;
+}
+#second{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    align-items: center;
+    border: 2px solid red;
+    background-color: beige;
+    width: 70%;
+    height: 50%;
+}
+#third{
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    align-items: center;
+    border: 2px solid red;
+    width: 70%;
+    height: 50%;
+}
