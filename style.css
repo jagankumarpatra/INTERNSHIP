@@ -1,0 +1,37 @@
+#stylish{
+    border: 12px dotted rgb(8, 26, 223);
+    margin: 10px 20px 30px 40px;
+    padding: 10px 20px 30px 40px;
+    
+}
+h1{
+    position: absolute;
+    bottom: 50px;
+    top: 50px;
+}
+
+/* absolute will affect all the screen componenets */
+/* relative will affect its own */
+#des{
+    position: absolute;
+    z-index: -1;
+    bottom: 50px;
+    top: 50px;
+    left: 20px;
+}
+/* zindex 0 means it will not overlap */
+/* zindex -1 means it will  overlap */
+/* zindex tells us to show the contnet overlapp or not */
+/* #des{
+    position: relative;
+    bottom: 50px;
+    top: 50px;
+    left: 20px;
+    
+} */
+/* sticky we need to give top,bottom,rigth,left values */
+
+#st{
+    position: sticky;
+    top: 0px;
+}
