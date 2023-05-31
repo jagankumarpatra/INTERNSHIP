@@ -1,0 +1,46 @@
+#nav{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(236, 232, 19);
+}
+#con{
+    display: flex;
+    flex-direction: row;
+    
+}
+li{
+    color: blue
+    padding: 12px;
+    margin-left: 283px;
+    font-size: 23px;
+    display: inline;
+}
+li:hover{
+    color: rgb(234, 134, 4);
+    font-size: 53px;
+}
+h1{
+    margin-left: 50px;
+    color: blue;
+}
+#content{
+    align-items: center;
+    padding: 20px 20px;
+    margin-left: 650px;
+     width: 150px; 
+      height: 50px; 
+      background-color:  rgb(231, 234, 233);
+      border: 5px solid rgb(245, 8, 8);
+}
+#info{
+    align-items: center;
+    padding: 20px 20px;
+    background-color:;
+    font-size: 23px;
+}
+#one{
+    font-size: larger;
+}
+#two{
+    font-size: larger;
+}
