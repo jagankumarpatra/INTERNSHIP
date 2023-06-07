@@ -1,0 +1,25 @@
+#showmovies{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    background-color: antiquewhite;
+}
+#showmovies img{
+    width: 250px;
+    height: 250px;
+    /* margin: 23px; */
+    border: 12px solid rgb(27, 222, 10);
+    object-fit: cover;
+    transition: all ease-in-out 100ms;
+}
+#showmovies img:hover{
+    transform: scale(1.2);
+}
+#showmovies h1{
+    background-color: rgb(221, 234, 234);
+    margin-left: 23px;
+}
+#showmovies p{
+    font-size: large;
+    margin-left: 23px;
+}

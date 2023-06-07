@@ -1,0 +1,43 @@
+{
+  "recipe": [
+    {
+      "id": 1685721136778,
+      "email": "jagankumar2024jobs@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": 1685724202417,
+      "email": "jagankumar2024jobs@gmail.com",
+      "password": "56"
+    },
+    {
+      "id": 1685818566866,
+      "email": "ece.20becd70@silicon.ac.in ",
+      "password": "789"
+    },
+    {
+      "id": 1685856632980,
+      "email": "jkp@gmail.com",
+      "password": "food"
+    },
+    {
+      "id": 1685856736158,
+      "email": "ndb@gmail.com",
+      "password": "sef"
+    }
+  ],
+  "data": [
+    {
+      "id": 1685721477595,
+      "dish": "chicken",
+      "link": "https://www.treebo.com/blog/wp-content/uploads/2022/08/Bling-It-on-1024x675.jpg",
+      "description": "egtrkjbhjth4b4th"
+    },
+    {
+      "dish": "Rasmalli",
+      "link": "https://www.treebo.com/blog/wp-content/uploads/2022/08/Bling-It-on-1024x675.jpg",
+      "description": "Kahe ke dekho to sehi",
+      "id": 1685721790682
+    }
+  ]
+}

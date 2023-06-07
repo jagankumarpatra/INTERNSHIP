@@ -1,0 +1,15 @@
+{
+    "myData":[
+    {
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJqWrB1Iz9jWsv3ZHuAAR39ThKmk404wn_6bLFeXcLA&usqp=CAU&ec=48665701",
+        "title" :"Kerala Story",
+        "rating":1
+    },
+    {
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJqWrB1Iz9jWsv3ZHuAAR39ThKmk404wn_6bLFeXcLA&usqp=CAU&ec=48665701",
+        "title" :"Kerala Story",
+        "rating":1
+    }
+    ]
+}
+

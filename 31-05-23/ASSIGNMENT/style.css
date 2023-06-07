@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    background-color: rgb(234, 232, 207);
+    font-size: 65px;
+    border-radius: 7px;
+}
+#Restauraunt{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(131, 186, 12);
+    /* border-radius: px; */
+}
+#Restauraunt img{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 23px;
+    border: 25px solid rgb(82, 47, 9);
+    transition: all ease-in-out 100ms;
+   
+}
+#Restauraunt img:hover{
+    transform: scale(1.1);
+}
+#Restauraunt h2 {
+    font-size: 43px;
+    margin-left: 109px;
+    
+    text-align: left;
+}
+#Restauraunt p{
+    margin-left: 109px;
+    border: 23px;
+    font-size: 23px;
+}
+#Restauraunt button{
+    font-size: larger;
+    margin: 23px;
+    color: blue;
+    background-color: rgb(212, 212, 215);
+}
