@@ -4,11 +4,11 @@ import Card from './components/card';
 function App() {
   const arr = [
     {
-      name: "jagan",
+      name: "Anwesh ",
       image: "https://cdn.marvel.com/u/prod/marvel/images/OpenGraph-TW-1200x630.jpg"
     },
     {
-      name: "Jagan",
+      name: "A Moharana",
       image: "https://cdn.marvel.com/u/prod/marvel/images/OpenGraph-TW-1200x630.jpg"
     }
   ];

@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "profile": "https://m.economictimes.com/thumb/msid-97021979,width-1200,height-900,resizemode-4,imgsize-46928/modi-new-pti1.jpg",
+      "name": "Nar",
+      "email": "modi@gmail.com",
+      "address": "Parliament",
+      "title": "m "
+    },
+    {
+      "id": 3,
+      "profile": "https://m.economictimes.com/thumb/msid-97021979,width-1200,height-900,resizemode-4,imgsize-46928/modi-new-pti1.jpg",
+      "name": "Mamata",
+      "email": "modi@gmail.com",
+      "address": "Parliament"
+    },
+    {
+      "id": 4,
+      "profile": "https://m.economictimes.com/thumb/msid-97021979,width-1200,height-900,resizemode-4,imgsize-46928/modi-new-pti1.jpg",
+      "name": "Bagula",
+      "email": "modi@gmail.com",
+      "address": "Parliament",
+      "title": "jkp"
+    },
+    {
+      "id": 5,
+      "profile": "https://m.economictimes.com/thumb/msid-97021979,width-1200,height-900,resizemode-4,imgsize-46928/modi-new-pti1.jpg",
+      "name": "Gandhi",
+      "email": "modi@gmail.com",
+      "address": "Parliament",
+      "title": "km"
+    },
+    {
+      "id": 6,
+      "profile": "https://m.economictimes.com/thumb/msid-97021979,width-1200,height-900,resizemode-4,imgsize-46928/modi-new-pti1.jpg",
+      "name": "Modi",
+      "email": "modi@gmail.com",
+      "address": "Parliament",
+      "title": "mn"
+    },
+    {
+      "profile": "https://imgs.bigtop40.com/images/112568?width=1920&crop=16_9&signature=WDNdPc7JGMMhDI3N7ynu5VRZ-DA=",
+      "name": "Weekend",
+      "email": "weekend@gmail.com",
+      "address": "NYC",
+      "id": 7
+    }
+  ]
+}

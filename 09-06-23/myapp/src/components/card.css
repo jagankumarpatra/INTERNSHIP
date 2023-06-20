@@ -1,0 +1,10 @@
+.box{
+    border: 2px solid rgb(146, 171, 94);
+    padding: 3px;
+    margin: 3px;
+    border-radius: 10px;
+    /* justify-content: center; */
+    box-shadow: 5px 10px color(srgb red green blue);
+    width: 93%;
+
+}

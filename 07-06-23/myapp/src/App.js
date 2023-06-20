@@ -11,16 +11,14 @@
 
 // export default App;
 
-// new one
+// get method
 
 import './App.css';
 import Card from './components/card';
 import { useEffect, useState } from 'react';
 
 function App() {
-  
   const [arr, setArr] = useState([]);
-
   const getData = async() => {
     await fetch("https://jsonplaceholder.typicode.com/photos", {
       method: "GET"

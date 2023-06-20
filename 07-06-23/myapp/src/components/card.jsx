@@ -19,7 +19,7 @@
 
 // // we are using useState hook for changing the desgingn its the managanemnt technique;
 
-
+// GET METHOD
 
 import React from "react";
 function Card({name, image}){
